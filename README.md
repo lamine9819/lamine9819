@@ -12,20 +12,44 @@
 
 ## 🚀 À propos de moi
 
-```typescript
-const lamine = {
-    localisation: "Saint-Louis, Sénégal 🇸🇳",
-    formation: "Master Informatique @ UGB (en cours)",
-    rôle: "Développeur Full Stack Junior",
-    domaines: ["Développement Web", "Data Science", "Intelligence Artificielle"],
-    objectif: "Créer des solutions innovantes à fort impact 💡",
-    contact: "lamineb29@gmail.com"
-};
-```
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=📍+Basé+à+Saint-Louis%2C+Sénégal+🇸🇳;🎓+Master+Informatique+%40+UGB+(en+cours);💼+Développeur+Full+Stack+Junior;🌐+Passionné+par+le+Développement+Web;📊+Expert+en+Data+Science;🤖+Enthousiaste+en+Intelligence+Artificielle;💡+Créateur+de+solutions+innovantes;✉️+lamineb29%40gmail.com" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/marker.png" width="50"/><br/>
+      <sub><b>Localisation</b></sub><br/>
+      <sub>Saint-Louis, 🇸🇳</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="50"/><br/>
+      <sub><b>Formation</b></sub><br/>
+      <sub>Master Info @ UGB</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br/>
+      <sub><b>Rôle</b></sub><br/>
+      <sub>Dev Full Stack Jr</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/96/000000/goal.png" width="50"/><br/>
+      <sub><b>Objectif</b></sub><br/>
+      <sub>Solutions innovantes 💡</sub>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Expériences Professionnelles
 
@@ -126,13 +150,27 @@ const lamine = {
 
 ## 🌱 En cours d'apprentissage
 
-```python
-learning_journey = {
-    "actuellement": ["Architecture Microservices", "DevOps", "CI/CD"],
-    "prochainement": ["Docker", "Kubernetes", "Cloud Computing (AWS/Azure)"],
-    "intérêts": ["MLOps", "Big Data", "Systèmes Distribués"]
-}
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=900&lines=🔥+Actuellement+→+Architecture+Microservices;🔥+Actuellement+→+DevOps+%26+CI%2FCD;🚀+Prochainement+→+Docker+%26+Kubernetes;🚀+Prochainement+→+Cloud+Computing+(AWS%2FAzure);💎+Intérêts+→+MLOps+%26+Big+Data;💎+Intérêts+→+Systèmes+Distribués" alt="Learning Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+| 🎯 Actuellement | 🚀 Prochainement | 💡 Intérêts |
+|:---:|:---:|:---:|
+| ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![MLOps](https://img.shields.io/badge/MLOps-00ADD8?style=for-the-badge&logo=mlflow&logoColor=white) |
+| ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azure-devops&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Big Data](https://img.shields.io/badge/Big_Data-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white) |
+| ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Distributed Systems](https://img.shields.io/badge/Systèmes_Distribués-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding"/>
+</div>
 
 ## 📫 Me contacter
 
